@@ -12,7 +12,7 @@ public class GitTest {
         System.out.println("Hello git");
         System.out.println("Hello kitty");
         System.out.println("Hello java");
-        System.out.println("Hello java");
+        System.out.println("Hello master");
         System.out.println("version five");
     }
 }
