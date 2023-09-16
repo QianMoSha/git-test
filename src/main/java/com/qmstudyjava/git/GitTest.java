@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("version five");
         System.out.println("push five");
         System.out.println("pull five");
+        System.out.println("gitee five");
     }
 }
